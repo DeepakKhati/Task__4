@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    grid-template-rows: 1fr 1fr;
+    height: 600px;
+    gap: 30px;
+}
+
+.box{
+    background-color: blueviolet;
+    font-size: 60px;
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+    
+}
+
+.boy{
+   
+    
+    
+}
+
+.man{
+    
+}
+
+.book{
+   
+    
+}

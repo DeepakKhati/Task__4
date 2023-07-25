@@ -1,0 +1,22 @@
+.container{
+    margin: 0;
+    padding :0;
+    height: 700px;
+    width: 650px;
+    /* border: 15px solid rgb(235, 111, 111) ; */
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    
+    /* grid-template-rows: auto; */
+}
+.white{
+    background-color: rgb(248, 233, 204);
+   
+    
+}
+
+.black{
+    background-color: rgb(235, 176, 99);
+    
+    
+}

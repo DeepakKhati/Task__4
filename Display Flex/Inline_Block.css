@@ -1,0 +1,18 @@
+.box1{
+    background-color: blueviolet;
+    width: 25%;
+    display: inline-block;
+   
+}
+
+.box2{
+    background-color: blueviolet;
+    width: 25%;
+    display: inline-block;
+}
+
+.box3{
+    background-color: blueviolet;
+    width: 40%;
+    display: inline-block;
+}

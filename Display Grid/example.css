@@ -1,0 +1,35 @@
+.container{
+    display: grid;
+    grid-template-rows: 1fr 1fr ;
+    grid-template-columns: 1fr  2fr;
+    gap: 10px;
+    
+
+}
+
+.box1{
+    background-color:cadetblue;
+    /* height: 100px;
+    width: 50%; */
+}
+
+.box2{
+    background-color:cadetblue;
+    /* height: 100px;
+    width: 50%; */
+
+}
+
+.box3{
+    background-color:cadetblue;
+    /* height: 100px;
+    width: 50%; */
+
+}
+
+.box4{
+    background-color:cadetblue;
+    /* height: 100px;
+    width: 50%; */
+
+}

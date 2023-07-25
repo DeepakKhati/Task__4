@@ -1,0 +1,9 @@
+p{
+    background-color: rgb(111, 220, 111);
+    
+}
+.box0{
+    display: flex;
+    gap: 10px;
+    /* border: 2px solid black; */
+}

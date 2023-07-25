@@ -1,0 +1,27 @@
+p{
+    background-color: coral;
+    
+}
+.box1{
+    /* background-color: coral; */
+    height: 150px;
+    width: 400px;
+    float: left;
+    margin: 8px;
+}
+
+.box2{
+    /* background-color: coral; */
+    float: left;
+    height: 110px;
+    width: 400px;
+    margin: 8px;
+}
+
+.box3{
+    /* background-color: coral; */
+    float: left;
+    height: 260px;
+    width: 580px;
+    margin: 8px;
+}
